@@ -21,8 +21,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # ----------------- 路径与参数 -----------------
 # 请确保这个路径正确无误，并且文件存在
-INPUT_GOIDS_CSV = r"/Users/jinanwuyanzu/Desktop/title.csv"
-OUTPUT_RESULT_CSV = r"/Users/jinanwuyanzu/Desktop/News5/results.csv"
+INPUT_GOIDS_CSV = r"/title.csv"
+OUTPUT_RESULT_CSV = r"/results.csv"
 
 ADVANCED_URL = "https://www.proquest.com/advanced"
 TIMEOUT = 30
